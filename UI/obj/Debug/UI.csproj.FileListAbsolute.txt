@@ -1,0 +1,6 @@
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\UI.exe.config
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\UI.exe
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\UI.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.exe
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.pdb

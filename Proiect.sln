@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregationRoots", "Aggrega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{F2C9B7DA-0BDE-4CA3-9A84-C7108D5BFF31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{1F96DB32-A74E-42B1-8E38-E4AF936CFD52}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factories", "Factories\Factories.csproj", "{F82FA93A-60EE-4C0E-894A-6F13045ACFD5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObjects", "ValueObjects\ValueObjects.csproj", "{ED54731F-6756-4603-9026-85B41BD83513}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{FB2416C6-3444-4DDC-9188-67456590BCD8}"
@@ -31,14 +27,6 @@ Global
 		{F2C9B7DA-0BDE-4CA3-9A84-C7108D5BFF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2C9B7DA-0BDE-4CA3-9A84-C7108D5BFF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2C9B7DA-0BDE-4CA3-9A84-C7108D5BFF31}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F96DB32-A74E-42B1-8E38-E4AF936CFD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F96DB32-A74E-42B1-8E38-E4AF936CFD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F96DB32-A74E-42B1-8E38-E4AF936CFD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F96DB32-A74E-42B1-8E38-E4AF936CFD52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F82FA93A-60EE-4C0E-894A-6F13045ACFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F82FA93A-60EE-4C0E-894A-6F13045ACFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F82FA93A-60EE-4C0E-894A-6F13045ACFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F82FA93A-60EE-4C0E-894A-6F13045ACFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED54731F-6756-4603-9026-85B41BD83513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED54731F-6756-4603-9026-85B41BD83513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED54731F-6756-4603-9026-85B41BD83513}.Release|Any CPU.ActiveCfg = Release|Any CPU
