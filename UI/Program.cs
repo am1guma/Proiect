@@ -50,7 +50,7 @@ namespace UI
 
             Console.WriteLine("Camin: " + c);
             Console.WriteLine("Administrator: " + c.Administrator);
-            Console.WriteLine(c.SelectareStudentiCamin(u.Facultati[0].Secretariat.Studenti, 8, 10));
+            Console.WriteLine(c.SelectareStudentiCamin(u.Facultati[0].Secretariat.Studenti, 5, 10));
             Console.ReadKey();
         }
     }

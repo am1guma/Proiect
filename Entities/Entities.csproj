@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Administrator.cs" />
     <Compile Include="Facultate.cs" />
     <Compile Include="Profesor.cs" />
     <Compile Include="Secretariat.cs" />
