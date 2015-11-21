@@ -10,9 +10,9 @@ namespace ValueObjects
     {
         public string NumeAdmin { get; }
 
-        public NumeAdministrator(string cnp)
+        public NumeAdministrator(string numeAdmin)
         {
-            NumeAdmin = cnp;
+            NumeAdmin = numeAdmin;
         }
 
         public override bool Equals(object obj)

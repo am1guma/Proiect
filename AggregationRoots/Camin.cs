@@ -20,6 +20,17 @@ namespace AggregationRoots
         {
             Administrator = admin;
         }
+
+        public string SelectareStudentiCamin(List<Student> lista, int min, int max)
+        {
+            List<Student> cazati = lista.OrderByDescending(o => o.Medie()).ToList().FindAll
+                (c => (c.Medie() <= max) && (c.Medie() >= min));
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Studenti cazati:\n");
+            foreach (Student s in cazati)
+                sb.Append("     " + s.Nume + " " + s.Prenume+"\n");
+            return sb.ToString();
+        }
         public override bool Equals(object obj)
         {
             var admin = (Camin)obj;
@@ -27,11 +38,11 @@ namespace AggregationRoots
         }
         public override int GetHashCode()
         {
-            return Administrator.GetHashCode();
+            return NumeCamin.GetHashCode();
         }
         public override string ToString()
         {
-            return Administrator.ToString();
+            return NumeCamin.ToString();
         }
     }
     

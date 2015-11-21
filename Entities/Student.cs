@@ -34,10 +34,17 @@ namespace Entities
         public string VizualizeazaSituatie()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Situatie: \n");
+            sb.Append("Situatie:\n");
             foreach (Situatie s in Situatii)
-                sb.Append("     "+s.Materia + ": " + s.Nota);
+                sb.Append("     "+s.Materia + ": " + s.Nota+"\n");
             return sb.ToString();
+        }
+        public double Medie()
+        {
+            double medie = 0;
+            foreach (Situatie s in Situatii)
+                medie += s.Nota.Valoare;
+            return Math.Round(medie / Situatii.Count, 2);
         }
         public override bool Equals(object obj)
         {
