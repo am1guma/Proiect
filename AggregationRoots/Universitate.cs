@@ -20,5 +20,18 @@ namespace AggregationRoots
         {
             Facultati.Add(fac);
         }
+        public override bool Equals(object obj)
+        {
+            var univ = (Universitate)obj;
+            return NumeUniversitate.Equals(univ.NumeUniversitate);
+        }
+        public override int GetHashCode()
+        {
+            return NumeUniversitate.GetHashCode();
+        }
+        public override string ToString()
+        {
+            return NumeUniversitate.ToString();
+        }
     }
 }

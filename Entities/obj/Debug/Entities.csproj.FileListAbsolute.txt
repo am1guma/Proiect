@@ -1,0 +1,7 @@
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\bin\Debug\Entities.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\bin\Debug\Entities.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\bin\Debug\ValueObjects.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\bin\Debug\ValueObjects.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\obj\Debug\Entities.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Entities\obj\Debug\Entities.pdb

@@ -34,5 +34,18 @@ namespace Entities
         {
             return Situatii;
         }
+        public override bool Equals(object obj)
+        {
+            var stud = (Student)obj;
+            return NumarMatricol.Equals(stud.NumarMatricol);
+        }
+        public override int GetHashCode()
+        {
+            return NumarMatricol.GetHashCode();
+        }
+        public override string ToString()
+        {
+            return NumarMatricol.ToString();
+        }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Services\bin\Debug\Services.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Services\bin\Debug\Services.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Services\obj\Debug\Services.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\Services\obj\Debug\Services.pdb

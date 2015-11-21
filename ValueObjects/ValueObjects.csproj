@@ -44,6 +44,8 @@
     <Compile Include="Disciplina.cs" />
     <Compile Include="Materia.cs" />
     <Compile Include="Nota.cs" />
+    <Compile Include="NumeAdministrator.cs" />
+    <Compile Include="NumeCamin.cs" />
     <Compile Include="NumeFacultate.cs" />
     <Compile Include="NumeSecretariat.cs" />
     <Compile Include="NumeUniversitate.cs" />

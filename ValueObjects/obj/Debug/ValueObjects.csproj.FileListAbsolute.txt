@@ -1,0 +1,5 @@
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\ValueObjects\bin\Debug\ValueObjects.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\ValueObjects\bin\Debug\ValueObjects.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\ValueObjects\obj\Debug\ValueObjects.csprojResolveAssemblyReference.cache
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\ValueObjects\obj\Debug\ValueObjects.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\ValueObjects\obj\Debug\ValueObjects.pdb

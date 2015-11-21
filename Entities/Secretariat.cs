@@ -24,5 +24,18 @@ namespace Entities
         {
             Profesori.Add(pro);
         }
+        public override bool Equals(object obj)
+        {
+            var secretariat = (Secretariat)obj;
+            return NumeSecretariat.Equals(secretariat.NumeSecretariat);
+        }
+        public override int GetHashCode()
+        {
+            return NumeSecretariat.GetHashCode();
+        }
+        public override string ToString()
+        {
+            return NumeSecretariat.ToString();
+        }
     }
 }
