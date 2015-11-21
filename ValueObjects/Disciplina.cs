@@ -15,5 +15,21 @@ namespace ValueObjects
             Materia = materia;
             TipPredare = tp;
         }
+
+        public override bool Equals(object obj)
+        {
+            var disciplina = (Disciplina)obj;
+            return Materia.Equals(disciplina.Materia)&& TipPredare.Equals(disciplina.TipPredare);
+        }
+
+        public override int GetHashCode()
+        {
+            return Materia.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return Materia.ToString();
+        }
     }
 }

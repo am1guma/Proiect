@@ -8,5 +8,27 @@ namespace ValueObjects
 {
     public class NumeAdministrator
     {
+        public string NumeAdmin { get; }
+
+        public NumeAdministrator(string cnp)
+        {
+            NumeAdmin = cnp;
+        }
+
+        public override bool Equals(object obj)
+        {
+            var numeadmin = (NumeAdministrator)obj;
+            return NumeAdmin.Equals(numeadmin.NumeAdmin);
+        }
+
+        public override int GetHashCode()
+        {
+            return NumeAdmin.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return NumeAdmin;
+        }
     }
 }
