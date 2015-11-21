@@ -1,1 +1,9 @@
 C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\obj\Debug\AggregationRoots.csprojResolveAssemblyReference.cache
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\AggregationRoots.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\AggregationRoots.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\Entities.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\ValueObjects.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\Entities.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\bin\Debug\ValueObjects.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\obj\Debug\AggregationRoots.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\AggregationRoots\obj\Debug\AggregationRoots.pdb

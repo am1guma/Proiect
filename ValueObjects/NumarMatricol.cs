@@ -17,7 +17,7 @@ namespace ValueObjects
 
         public override bool Equals(object obj)
         {
-            var nm = (Grupa)obj;
+            var nm = (NumarMatricol)obj;
             return NrMatricol.Equals(nm.NrMatricol);
         }
 

@@ -20,6 +20,7 @@ namespace Entities
             Prenume = prenume;
             DataNasterii = dn;
             CNP = cnp;
+            Discipline = new List<Disciplina>();
         }
         public void CreeazaDisciplina(Disciplina dis)
         {
@@ -40,7 +41,7 @@ namespace Entities
         }
         public override string ToString()
         {
-            return CNP.ToString();
+            return Nume.ToString()+" "+ Prenume.ToString();
         }
     }
 }

@@ -15,6 +15,7 @@ namespace AggregationRoots
         internal Universitate(NumeUniversitate nu)
         {
             NumeUniversitate = nu;
+            Facultati = new List<Facultate>();
         }
         public void CreeazaFacultate(Facultate fac)
         {

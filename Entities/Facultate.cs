@@ -9,7 +9,7 @@ namespace Entities
 {
     public class Facultate
     {
-        public List<Secretariat> Secretariate { get; }
+        public Secretariat Secretariat { get; internal set; }
         public NumeFacultate NumeFacultate { get; }
         public Facultate(NumeFacultate nf)
         {
@@ -17,7 +17,7 @@ namespace Entities
         }
         public void CreeazaSecretariat(Secretariat sec)
         {
-            Secretariate.Add(sec);
+            Secretariat = sec;
         }
         public override bool Equals(object obj)
         {

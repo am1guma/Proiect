@@ -49,6 +49,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AggregationRoots\AggregationRoots.csproj">
+      <Project>{09a02cb1-558d-4e90-bd66-a67799230712}</Project>
+      <Name>AggregationRoots</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{f2c9b7da-0bde-4ca3-9a84-c7108d5bff31}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ValueObjects\ValueObjects.csproj">
+      <Project>{ed54731f-6756-4603-9026-85b41bd83513}</Project>
+      <Name>ValueObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

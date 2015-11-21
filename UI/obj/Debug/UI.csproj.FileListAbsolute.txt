@@ -4,3 +4,9 @@ C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\UI.pdb
 C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
 C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.exe
 C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\obj\Debug\UI.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\AggregationRoots.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\Entities.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\ValueObjects.dll
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\AggregationRoots.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\Entities.pdb
+C:\Users\Oana Maria Palcu\Documents\GitHub\Proiect\UI\bin\Debug\ValueObjects.pdb

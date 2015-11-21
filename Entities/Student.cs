@@ -29,10 +29,15 @@ namespace Entities
             Sectie = sectie;
             AnUniversitar = au;
             Grupa = grupa;
+            Situatii = new List<Situatie>();
         }
-        public List<Situatie> VizualizeazaSituatie()
+        public string VizualizeazaSituatie()
         {
-            return Situatii;
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Situatie: \n");
+            foreach (Situatie s in Situatii)
+                sb.Append("     "+s.Materia + ": " + s.Nota);
+            return sb.ToString();
         }
         public override bool Equals(object obj)
         {
@@ -45,7 +50,7 @@ namespace Entities
         }
         public override string ToString()
         {
-            return NumarMatricol.ToString();
+            return Nume.ToString()+" "+Prenume.ToString();
         }
     }
 }

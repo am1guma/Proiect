@@ -15,6 +15,8 @@ namespace Entities
         public Secretariat(NumeSecretariat ns)
         {
             NumeSecretariat = ns;
+            Studenti = new List<Student>();
+            Profesori = new List<Profesor>();
         }
         public void CreeazaStudent(Student stu)
         {

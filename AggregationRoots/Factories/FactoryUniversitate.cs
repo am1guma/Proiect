@@ -8,7 +8,7 @@ using ValueObjects;
 
 namespace AggregationRoots.Factories
 {
-    class FactoryUniversitate
+    public class FactoryUniversitate
     {
         public static readonly FactoryUniversitate Instance=new FactoryUniversitate();
         private FactoryUniversitate()
